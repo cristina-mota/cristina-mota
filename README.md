@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @cristina-mota
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Olá, sou a Cristina Mota.
+Moro no exterior, e estou em transição de carreira.
+Estudo desenvolvimento Web.
 
-<!---
-cristina-mota/cristina-mota is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![CityGIF](https://user-images.githubusercontent.com/110698111/187922589-5bb3ef16-d5d3-413e-b09c-3a74a6644b43.gif)
