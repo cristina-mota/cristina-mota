@@ -5,7 +5,7 @@ Estudo desenvolvimento Web.
 
 <strong>🎯#Sem pressa, mas sempre evoluindo!</strong></p>
 
-[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://cm.crismota@gmail.com)
+[![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]
 
 ![CityGIF](https://user-images.githubusercontent.com/110698111/187954134-c0d03c2d-6fec-498e-9998-16b873d644e6.gif)
 
