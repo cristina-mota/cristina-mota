@@ -4,7 +4,7 @@
 Estudo desenvolvimento Web.<br>
 <strong>🎯#Sem pressa, mas sempre evoluindo!</strong></p>
 
-<p text-align:center>![CityGIF](https://user-images.githubusercontent.com/110698111/187954134-c0d03c2d-6fec-498e-9998-16b873d644e6.gif)>
+<br><br><br><br>![CityGIF](https://user-images.githubusercontent.com/110698111/187954134-c0d03c2d-6fec-498e-9998-16b873d644e6.gif)
 
 
 
