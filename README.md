@@ -7,7 +7,9 @@ Estudo desenvolvimento Web.
 
 <span>🎲🕹️🎸📱🤓🍃🚀🌍❄️![CityGIF](https://user-images.githubusercontent.com/110698111/187954134-c0d03c2d-6fec-498e-9998-16b873d644e6.gif)</span>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina-mota)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina-mota&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristina-mota&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
