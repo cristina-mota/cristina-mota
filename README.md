@@ -5,7 +5,8 @@ Estudo desenvolvimento Web.
 
 <strong>🎯#Sem pressa, mas sempre evoluindo!</strong></p>
 
- ![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<span> ![e-mail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white) </span>
  
  
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristina-mota&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
