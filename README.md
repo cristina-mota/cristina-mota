@@ -3,7 +3,9 @@
 <p>Moro no exterior, e estou em transição de carreira.<br>
 Estudo desenvolvimento Web.<br>
 <strong>🎯#Sem pressa, mas sempre evoluindo!</strong></p>
-![CityGIF (2)](https://user-images.githubusercontent.com/110698111/187953829-a49ff47a-11cd-4857-9c22-6ab93cb14009.gif)
+
+![CityGIF](https://user-images.githubusercontent.com/110698111/187954134-c0d03c2d-6fec-498e-9998-16b873d644e6.gif)
+
 
 
 
