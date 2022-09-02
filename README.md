@@ -14,6 +14,7 @@ Estudo desenvolvimento Web.
  ![CityGIF](https://user-images.githubusercontent.com/110698111/187954134-c0d03c2d-6fec-498e-9998-16b873d644e6.gif)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cristina-mota&show_icons=true&theme=radical) </span>
 
+ ![Snake animation](https://github.com/cristina-mota/cristina-mota/blob/output/github-contribution-grid-snake.svg)
 
 
 
