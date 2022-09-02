@@ -1,4 +1,4 @@
-<div align="center"><strong>Prazer, sou a Cristina Mota</strong>
+<div align="center"><h1>Prazer, sou a Cristina Mota.</h1>
 
 <p>Moro no exterior, e estou em transição de carreira.<br>
 Estudo desenvolvimento Web.
